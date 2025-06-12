@@ -2,15 +2,15 @@
 
 _A GUI-based news aggregator using Web APIs, Web Scraping, OOP, and Unit Testing_
 
-![App Screenshot](1.png)
-![App Screenshot](2.png)
-![App Screenshot](3.png)
-![App Screenshot](4.png)
-![App Screenshot](5.png)
-![App Screenshot](6.png)
-![App Screenshot](7.png)
-![App Screenshot](8.png)
-![App Screenshot](9.png)
+![App Screenshot](assets/1.png)
+![App Screenshot](assets/2.png)
+![App Screenshot](assets/3.png)
+![App Screenshot](assets/4.png)
+![App Screenshot](assets/5.png)
+![App Screenshot](assets/6.png)
+![App Screenshot](assets/7.png)
+![App Screenshot](assets/8.png)
+![App Screenshot](assets/9.png)
 
 ---
 
