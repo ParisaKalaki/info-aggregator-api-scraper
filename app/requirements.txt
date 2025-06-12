@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+matplotlib
+seaborn
+pandas
+wordcloud
+textblob
+newspaper3k
+lxml[html_clean]
