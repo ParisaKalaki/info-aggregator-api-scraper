@@ -4,7 +4,6 @@ _A GUI-based news aggregator using Web APIs, Web Scraping, OOP, and Unit Testing
 
 ![App Screenshot](assets/2.png)
 ![App Screenshot](assets/4.png)
-![App Screenshot](assets/5.png)
 ![App Screenshot](assets/9.png)
 ![App Screenshot](assets/10.png)
 ![App Screenshot](assets/11.png)
